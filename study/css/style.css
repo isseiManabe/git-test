@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#divwrap{
+    height: 50%;
+    width: 50%;
+    background-color: aqua;
+    padding: 10%;
+}
+#inner_wrap{
+    width: 20%;
+    
+}
